@@ -47,7 +47,7 @@ nav ul li a:hover{
 }
 
 .detel p{
-    color:#555;
+    color:#b253ca;
     line-height: 22px;    
 }
 
@@ -72,13 +72,12 @@ span{
 
 
 .images{
-    width: 45%;
+    width:45%;
     height:60%;
     position:absolute;
     /* bottom:50px; */
     top:100px;
     right:10px;
-    overflow:hidden;
 }
 
 /* .images img{
@@ -89,6 +88,7 @@ span{
     transform: translate(-50%);
     transition:bottom 1s,left 1s;
 } */
+
 .pic{
     height:100%;
 }
