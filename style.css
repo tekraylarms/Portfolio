@@ -78,6 +78,7 @@ span{
     /* bottom:50px; */
     top:100px;
     right:10px;
+    overflow:hidden;
 }
 
 /* .images img{
