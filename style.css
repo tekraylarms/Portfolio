@@ -91,6 +91,7 @@ span{
 
 .pic{
     height:100%;
+    max-width:100%;
 }
 /* .images:hover .shape{
       bottom:40px;
