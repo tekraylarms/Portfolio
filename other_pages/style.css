@@ -1,0 +1,84 @@
+body{
+   
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    height: 100vh;
+    width: 110vw;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box2{
+    height: 100vh;
+    width:110vw;
+    /* background-color: purple; */
+}
+.bb{
+    background-color: blanchedalmond;
+}
+
+ /* box1's elements properties */
+.b11{
+    background-color: blueviolet;
+    width:40vw;
+    height:40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.b12{
+    background-color: green;
+    width:40vw;
+    height:40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bullet{
+    font-size:medium;
+}
+.b13{
+    background-color: blueviolet;
+    width:40vw;
+    height:40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.b14{
+    background-color: violet;
+    width:40vw;
+    height:40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.b15{
+    background-color: rgb(105, 158, 119);
+    width:40vw;
+    height:40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* box2's elements */
+.center{
+    position: relative;
+    top:170px;
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+    background-color: yellow;
+    height: 40vh;
+    width:49vw;
+}
+#pinfo{
+    font-size:3vw;
+}
+#career{
+    font-size:3vw;
+}
