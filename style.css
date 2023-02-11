@@ -73,7 +73,7 @@ span{
 
 .images{
     width: 45%;
-    height:50%;
+    height:60%;
     position:absolute;
     /* bottom:50px; */
     top:100px;
@@ -89,11 +89,8 @@ span{
     transform: translate(-50%);
     transition:bottom 1s,left 1s;
 } */
-.shape{
-    height:150px;
-}
 .pic{
-    height:80vh;
+    height:100%;
 }
 /* .images:hover .shape{
       bottom:40px;
