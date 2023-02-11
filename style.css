@@ -73,11 +73,11 @@ span{
 
 .images{
     width:25%;
-    height:60%;
+    height:50%;
     position:absolute;
     /* bottom:50px; */
     top:100px;
-    right:10px;
+    right:40px;
 }
 
 /* .images img{
@@ -91,7 +91,7 @@ span{
 
 .pic{
     height:100%;
-    max-width:50%;
+    max-width:100%;
 }
 /* .images:hover .shape{
       bottom:40px;
